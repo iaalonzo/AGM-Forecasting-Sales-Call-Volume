@@ -10,6 +10,8 @@ For this project we are provided with historical call volume amount of a sales d
 
 * Calculate the amount of people needed in the sales department and in the quality analysis department to evaluate the proper amount of calls.
 
+On addition to this, you can check the Dashboard created in Power BI containing the EDA of the dataset.
+
 ## Conclusions
 
 * During the project, we created four models using Prophet and Neural Prophet, and we obtain acceptable results by using the RMSE. We need to take in consideration that Holidays and other celebrations of the USA, can affect the performance of our model since the sales department works for all the states in the USA.
